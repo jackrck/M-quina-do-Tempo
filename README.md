@@ -22,16 +22,3 @@ Já se imaginou voltando no tempo para curtir os hits que marcaram os anos 80? C
 2. **Abra o arquivo index.html:** Abra o arquivo `index.html` em seu navegador favorito.
 3. **Comece a pesquisar:** Digite o nome da sua música favorita dos anos 80 e divirta-se!
 
-### **Contribuindo:**
-
-Quer ajudar a melhorar a Máquina do Tempo Musical? Sinta-se à vontade para contribuir com o projeto! Você pode:
-
-* **Corrigir bugs:** Se encontrar algum erro, abra uma issue.
-* **Adicionar novas funcionalidades:** Quer adicionar mais filtros de pesquisa ou um player de música? As sugestões são bem-vindas!
-* **Melhorar o design:** Se você tiver ideias para deixar a interface mais bonita, compartilhe!
-
-**Observação:** Para que a aplicação funcione corretamente, você precisará criar um arquivo `dados.js` com a lista de músicas, incluindo título, descrição, imagem e tags.
-
-**Vamos juntos manter a vibe dos anos 80 viva!** 
-
-**#MáquinaDoTempoMusical #Anos80 #Música #JavaScript #HTML #CSS #Nostalgia**
